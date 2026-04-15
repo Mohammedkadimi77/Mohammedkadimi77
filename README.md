@@ -12,10 +12,6 @@
 
 Je suis un développeur **Full-Stack** passionné par la création de solutions web performantes et évolutives. Curieux de nature, j'aime explorer de nouvelles technologies et transformer des idées complexes en applications simples et intuitives.
 
-- 🛠️ Actuellement, je perfectionne mes compétences en **Architecture Microservices**.
-- 🔭 Je travaille sur des projets impliquant **React, Spring Boot et Docker**.
-- 💬 N'hésitez pas à me contacter pour discuter de **développement web** ou de **collaboration open-source**.
-
 ---
 
 ### 🛠️ Langages et Outils
